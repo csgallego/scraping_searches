@@ -1,4 +1,4 @@
-scraping_searches
+Scraping Searches
 =================
 
-A python program to scrape searches
+A Python program to scrape searches
