@@ -1,4 +1,4 @@
 Scraping Searches
 =================
 
-A Python program to scrape searches
+A couple of python scripts to scrape websites/search results.
